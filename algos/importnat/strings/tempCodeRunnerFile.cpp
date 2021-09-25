@@ -1,0 +1,2 @@
+if (right == left)
+        

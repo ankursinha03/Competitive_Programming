@@ -1,0 +1,1 @@
+std::cout << ll.if_palindrome();
