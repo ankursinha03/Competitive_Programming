@@ -1,0 +1,2 @@
+if (n == parent)
+                continue;
